@@ -1,0 +1,16 @@
+,Term,Df,Df.res,Sum Sq,Sum Sq.res,F value,Pr(>F),part.eta.sq
+ewp_rate,ewp_rate,2,1044,50509164,53771371.13,490.33,0.00,0.48
+ci_rate,ci_rate,2,1044,2581513,100037205,13.47,0.00,0.03
+ab_cri,ab_cri,1,1044,106565,102328734.2,1.09,0.30,0.00
+iterat_times,iterat_times,1,1044,1121591,101371168.2,11.55,0.00,0.01
+ewp_rate:ci_rate,ewp_rate:ci_rate,4,1044,3289297,99296330.07,8.65,0.00,0.03
+ewp_rate:ab_cri,ewp_rate:ab_cri,2,1044,48205,102370862.6,0.25,0.78,0.00
+ci_rate:ab_cri,ci_rate:ab_cri,2,1044,39797,102638982,0.20,0.82,0.00
+ewp_rate:iterat_times,ewp_rate:iterat_times,2,1044,179629,102257179.5,0.92,0.40,0.00
+ci_rate:iterat_times,ci_rate:iterat_times,2,1044,238805,102210379.3,1.22,0.30,0.00
+ab_cri:iterat_times,ab_cri:iterat_times,1,1044,1040,102398749.5,0.01,0.92,0.00
+ewp_rate:ci_rate:ab_cri,ewp_rate:ci_rate:ab_cri,4,1044,162101,102275238.5,0.41,0.80,0.00
+ewp_rate:ci_rate:iterat_times,ewp_rate:ci_rate:iterat_times,4,1044,254100,102189788.1,0.65,0.63,0.00
+ewp_rate:ab_cri:iterat_times,ewp_rate:ab_cri:iterat_times,2,1044,105601,102286586.7,0.54,0.58,0.00
+ci_rate:ab_cri:iterat_times,ci_rate:ab_cri:iterat_times,2,1044,27805,102369010.7,0.14,0.87,0.00
+ewp_rate:ci_rate:ab_cri:iterat_times,ewp_rate:ci_rate:ab_cri:iterat_times,4,1044,85427,102336442.8,0.22,0.93,0.00
